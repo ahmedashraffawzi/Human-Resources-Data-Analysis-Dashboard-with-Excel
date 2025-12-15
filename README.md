@@ -1,20 +1,28 @@
-# Human-Resources-Data-Analysis-Dashboard-with-Excel
 
-💡 What this dashboard covers:
- • Employee Overview: Total headcount, gender distribution, and age range analysis.
- • Skill Breakdown: Key competencies across the team, including communication, design, and management.
- • Leave Tracking: Visualized leave data by job title for better planning.
- • Salary Insights: Detailed breakdown by employment status and job roles.
- • Performance & Department Analysis: Average ratings and department-wise employee distribution.
+# HR Analytics Dashboard (Excel + Power Query)
 
-🎯 Key aspects I focused on during development:
- ✔ Interactive Design: A clean, visually appealing layout with intuitive navigation.
- ✔ Clear KPIs: Highlighting essential metrics for quick decision-making.
- ✔ Data Storytelling: Turning raw HR data into actionable insights.
+An interactive dashboard designed to **analyze and monitor HR metrics** using **Advanced Excel and Power Query**. It provides clear insights into workforce composition, performance, salaries, and leave tracking—turning raw HR data into actionable insights.
 
-🛠 The skills I honed during this project included:
- 🔹 Advanced Excel (PivotTables, Charts, Conditional Formatting)
- 🔹 Power Query for Data Cleaning & Transformation
- 🔹 Dashboard Design & Data Visualization
- 🔹 Analytical Thinking & HR Metrics Analysis
- 🔹 Effective Data Presentation
+---
+
+## 🔍 Overview
+This dashboard was built on **real-world HR data** to deliver comprehensive and practical insights.  
+The focus was on **interactive design**, **clear KPIs**, and **data storytelling** for better decision-making.
+
+**Dashboard Covers:**
+- Employee Overview: Total headcount, gender distribution, and age analysis.
+- Skill Breakdown: Key competencies like communication, design, and management.
+- Leave Tracking: Visualized leave data by job title for better planning.
+- Salary Insights: Detailed breakdown by employment status and job roles.
+- Performance & Department Analysis: Average ratings and department-wise distribution.
+
+---
+
+## ✨ Key Features
+- Interactive & Clean Design with slicers and filters.
+- Clear KPIs for quick decision-making.
+- Data Storytelling: Transform- Data Storytelling: Transforming raw data into meaningful insights.
+- Scalable: Easily add new data sources via Power Query.
+
+---
+
